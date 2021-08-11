@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EventSample", "EventSample\EventSample.csproj", "{E2F176D9-4723-4DBA-A599-CA680E29AB28}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E2F176D9-4723-4DBA-A599-CA680E29AB28}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2F176D9-4723-4DBA-A599-CA680E29AB28}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2F176D9-4723-4DBA-A599-CA680E29AB28}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2F176D9-4723-4DBA-A599-CA680E29AB28}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
